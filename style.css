@@ -452,4 +452,13 @@ textarea {
   font-size: 1em;
   font-weight: 400;
 }
+#rescume{
+  display: none;
+}
+.footer-left-box{
+  display: none;
+}
+footer{
+  display: none;
+}
 }
