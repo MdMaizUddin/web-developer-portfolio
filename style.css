@@ -348,8 +348,8 @@ margin-top: 24px;
 .btn {
 height: 100%;
 width: 100%;
-  padding: 5px 10px;
-  font-size: 0.9em;
+  padding: 6px 12px;
+  font-size: 0.8em;
   border-style: none;
 }
 
@@ -382,7 +382,7 @@ margin-top: 10px;
 .hero-btn1 {
 width: auto;
    height: 100%;
-  padding: 8px 7px;
+    padding: 10px 12px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -390,10 +390,12 @@ width: auto;
 .hero-btn2{
   height: 100%;
   width: auto;
-      padding: 8px 7px;
+        padding: 6px 12px;
+      font-size: 1em;
   margin: 0 auto;
  display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  gap: 5px;
   border: 1px solid salmon;
 }
 .hero-left-container {
